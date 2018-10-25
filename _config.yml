@@ -80,12 +80,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Noam Buckman"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
-  employer         :
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  bio              : "Graduate research at CSAIL.  Research self-driving cars and multi-robot systems"
+  location         : "Cambridge, MA"
+  employer         : "Massachusetts Institute of Technology"
+  googlescholar    : "https://scholar.google.com/citations?user=08IxHAcAAAAJ&hl=en&oi=ao"
   email            :
   uri              :
   bitbucket        :
@@ -94,13 +94,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "noambuckman"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-5534-7939"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username

@@ -13,8 +13,8 @@ My research is funded by the [National Defense Science & Engineering Graduate Fe
 
 Recent News
 ======
-*October 2018:  I have joined the Distributed Robotics Lab!
-*September 2018:  Master's thesis submitted titled "Decentralized Task Allocation for Dynamic, Time-Sensitive Tasks"
-*August 2018:  My paper on decentralized task allocation is accepted to AIAA Guidance, Navigation, & Control Conferance
-*June-September 2018:  Working on multi-vehicle coordination at Aurora Flight Sciences
+* October 2018:  I have joined the Distributed Robotics Lab!
+* September 2018:  Master's thesis submitted titled "Decentralized Task Allocation for Dynamic, Time-Sensitive Tasks"
+* August 2018:  My paper on decentralized task allocation is accepted to AIAA Guidance, Navigation, & Control Conferance
+* June-September 2018:  Working on multi-vehicle coordination at Aurora Flight Sciences
 

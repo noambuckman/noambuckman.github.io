@@ -1,14 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "2.01x Elements of Structures"
 collection: teaching
-type: "Undergraduate course"
+type: "Online Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
+venue: "EdX, MIT Mechanical Engineering"
 date: 2014-01-01
-location: "City, Country"
+location: "Cambridge, MA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Worked on the online version of Elements of Structures with Dr. Simona Socrate
 
 Heading 1
 ======

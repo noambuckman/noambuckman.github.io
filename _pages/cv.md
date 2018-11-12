@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Resume.pdf](https://noambuckman.github.io/files/noamBuckmanResume.pdf).
+<object data="https://noambuckman.github.io/files/noamBuckmanResume.pdf" width="1000" height="1000" type='application/pdf'/>

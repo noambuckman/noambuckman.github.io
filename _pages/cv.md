@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+[Resume.pdf](https://noambuckman.github.io/files/noamBuckmanResume.pdf).

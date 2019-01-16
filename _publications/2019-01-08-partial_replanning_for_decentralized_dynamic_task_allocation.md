@@ -32,7 +32,7 @@ CBBA-PR can be further improved by reducing the team size involved in the replan
 reducing the communication burden of the team and runtime of CBBA-PR. Finally, we validate
 the faster convergence and improved solution quality of CBBA-PR in multi-UAV simulations.
 
-
+![CBBA Replan](https://noambuckman.github.io/images/papers_2018_01_07_scitech_cbbapr.png)
 
 
 

@@ -33,4 +33,7 @@ reducing the communication burden of the team and runtime of CBBA-PR. Finally, w
 the faster convergence and improved solution quality of CBBA-PR in multi-UAV simulations.
 
 
+
+
+
 Recommended citation: 'Buckman, N., Choi, H. L., & How, J. P. (2019). Partial Replanning for Decentralized Dynamic Task Allocation. In  <i>AIAA Scitech 2019 Forum</i>'.

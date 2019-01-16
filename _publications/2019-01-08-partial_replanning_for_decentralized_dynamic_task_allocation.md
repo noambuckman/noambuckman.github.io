@@ -18,7 +18,7 @@ paperurl: 'https://arc.aiaa.org/doi/10.2514/6.2019-0915'
 citation: 'Buckman, N., Choi, H. L., & How, J. P. (2019). Partial Replanning for Decentralized Dynamic Task Allocation. In  <i>AIAA Scitech 2019 Forum</i>.'
 ---
 
-[Download paper here](http://academicpages.github.io/files/2019_01_08_scitech_final.pdf)
+[Download paper here](http://noambuckman.github.io/files/2019_01_08_scitech_final.pdf)
 
 Abstract:
 In time-sensitive and dynamic missions, multi-UAV teams must respond quickly to new

@@ -1,6 +1,6 @@
 ---
 title: "Dynamic Decentralized Task Allocation"
-excerpt: "Decentralized algorithms for planning and replanning task allocations in dynamic environments with new information. 1<br/><img src='/images/prcbba.png'>"
+excerpt: "Decentralized algorithms for planning and replanning task allocations in dynamic environments with new information. <br/><img src='/images/prcbba.png'>"
 collection: research
 ---
 

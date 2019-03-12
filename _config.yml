@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Noam Buckman Personal Homepage"
+title                    : "Noam Buckman"
 title_separator          : "-"
 name                     : &name "Noam Buckman"
 description              : &description "Personal Homepage"

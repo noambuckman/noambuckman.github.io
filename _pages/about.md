@@ -14,7 +14,7 @@ My research is funded by the [National Defense Science & Engineering Graduate Fe
 Recent News
 ======
 * June 2019:  Our paper "Sharing is Caring: Socially-Compliant Autonomous Intersection Negotiation" was accepted to the International Conference on Intelligent Robots and Systems (IROS) in Macau, China
-* May 2019:  Presented a poster at [Resilient Robot Teaming Working](https://www.cl.cam.ac.uk/~asp45/icra2019/program.html) at ICRA 2019 in Montreal
+* May 2019:  Presented a poster at [Resilient Robot Teaming Workshop](https://www.cl.cam.ac.uk/~asp45/icra2019/program.html) at ICRA 2019 in Montreal
 * February 2019: Passed Mechanical Engineering Quals.  Officially a PhD candidate!
 * January 2019:  Presented paper ["Partial Replanning for Decentralized Dynamic Task Allocation"](https://noambuckman.github.io/publication/2019-01-08-partial_replanning_for_decentralized_dynamic_task_allocation) at AIAA 2019 Scitech Forum (previously Guidance, Navigation, & Control Conferance) in San Diego.
 * October 2018:  I have joined the [Distributed Robotics Lab](https://www.csail.mit.edu/research/distributed-robotics-laboratory)!
